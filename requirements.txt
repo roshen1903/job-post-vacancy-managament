@@ -1,2 +1,1 @@
-Flask==2.2.3
-werkzeug==2.3.0
+Flask-SQLALchemy==2.5.1
