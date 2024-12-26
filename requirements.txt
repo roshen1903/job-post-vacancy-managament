@@ -1,1 +1,2 @@
-Flask-SQLALchemy==2.5.1
+Flask==2.3.2
+Flask-SQLALchemy==3.0.5
